@@ -5,8 +5,11 @@ This project analyzes retail sales data from a Superstore dataset to uncover bus
 It follows a complete, industry-style data analytics pipeline:
 
 ✔ Data Cleaning
+
 ✔ Exploratory Data Analysis (EDA)
+
 ✔ SQL Querying
+
 ✔ Business Insights & Recommendations
 
 This project demonstrates the full lifecycle of a data analyst’s workflow, making it ideal for portfolio and interviews.
