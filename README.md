@@ -26,9 +26,13 @@ Retail Sales Analysis/
 │
 ├── data/
 │   ├── SampleSuperstore_cleaned.csv
+
 │   ├── region_summary.csv
+
 │   ├── category_summary.csv
+
 │   ├── region_summary-checkpoint.csv
+
 │   └── SampleSuperstore.csv.zip
 │
 ├── sql/
@@ -37,17 +41,17 @@ Retail Sales Analysis/
 ├── src/
 │   └── (Helper scripts / modular Python code)
 │
-├── 01_EDA.ipynb               # Exploratory Data Analysis notebook
-├── analysis.ipynb             # Additional analysis + visuals
-├── requirements.txt           # Python dependencies
-├── .gitignore                 # Ignored files and folders
-└── README.md                  # Project documentation
+├── 01_EDA.ipynb 
 
-📊 Dashboard Preview
+├── analysis.ipynb 
 
-(Add a screenshot named dashboard.png inside powerbi/ and use the line below)
+├── requirements.txt   
 
-📌 Interactive Power BI Dashboard
+├── .gitignore        
+
+└── README.md                  
+
+
 
 
 🧹 1. Data Cleaning
