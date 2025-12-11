@@ -22,17 +22,26 @@ Data Storage	CSV
 Database	SQL
 Version Control	Git & GitHub
 
-📁 Project Structure
 Retail Sales Analysis/
-│── data/                # Raw dataset (Superstore)
-│── notebooks/           # Jupyter notebooks
-│     └── 01_EDA.ipynb
-│── sql/                 # SQL queries for analysis
-│── powerbi/             # Power BI dashboard file + screenshot
-│── reports/             # Final PDF/Business report
-│── src/                 # Python scripts (optional)
-│── README.md            # Project documentation
-│── requirements.txt     # Python dependencies
+│
+├── data/
+│   ├── SampleSuperstore_cleaned.csv
+│   ├── region_summary.csv
+│   ├── category_summary.csv
+│   ├── region_summary-checkpoint.csv
+│   └── SampleSuperstore.csv.zip
+│
+├── sql/
+│   └── (SQL queries and scripts)
+│
+├── src/
+│   └── (Helper scripts / modular Python code)
+│
+├── 01_EDA.ipynb               # Exploratory Data Analysis notebook
+├── analysis.ipynb             # Additional analysis + visuals
+├── requirements.txt           # Python dependencies
+├── .gitignore                 # Ignored files and folders
+└── README.md                  # Project documentation
 
 📊 Dashboard Preview
 
